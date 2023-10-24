@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/main_program.dir/vertex.cpp.o CMakeFiles/main_program.dir/uu.cpp.o CMakeFiles/main_program.dir/camera.cpp.o -o main_program   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lglfw -lGLEW -lGL -lsoil2 
